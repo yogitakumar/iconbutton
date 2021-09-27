@@ -1,16 +1,6 @@
 # iconbutton
 
-A new Flutter application.
+Flutter application to show click effect on Icon
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![icontoggle](https://user-images.githubusercontent.com/61360028/134991447-bfac359d-5b46-4c0f-bbe5-a7151e2fc559.gif)
